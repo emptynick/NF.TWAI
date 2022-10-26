@@ -10,7 +10,7 @@ The aim of this repository is to add Espressifs TWAI (aka CAN bus) driver to the
 This is a work in progress and not yet functional.
 
 ## Installing
-> Make sure you are able to compile `nf-interpreter`.
+> Make sure you are able to compile `nf-interpreter`. Follow [this](https://docs.nanoframework.net/content/building/build-esp32.html) tutorial to learn how.
   
 ### Clone the repo
 You have two ways to clone this repository:
